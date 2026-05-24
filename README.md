@@ -2,7 +2,7 @@
 
 An adaptive multi-agent AI assistant built with Flask that uses OpenAI,
 LangChain, YOLOv5, and external APIs to answer product queries, detect
-objects in images, provide weather forecasts, and track financial data –
+objects in images, provide weather forecasts, and track financial data
 all in one interface.
 
 ---
@@ -12,7 +12,7 @@ all in one interface.
 **APEX** is an enterprise-grade AI assistant built with **Flask**, designed
 to serve as a unified interface for product intelligence, image recognition,
 and real-time data retrieval. It leverages a modular agent architecture to
-handle diverse query types — from natural language document search to live
+handle diverse query types from natural language document search to live
 financial feeds — within a single conversational system.
 
 ---
