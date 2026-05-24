@@ -47,6 +47,3 @@ APEX integrates four specialized agents, each responsible for a distinct domain:
 > and evaluating toilet models and specifications — using both **text** and
 > **images** — reducing lookup time and improving decision accuracy in the field.
 
----
-
-## 🎥 Project Demo
